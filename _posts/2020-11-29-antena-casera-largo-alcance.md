@@ -9,13 +9,12 @@ header:
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
-  - WiFi
-  - Utilidades
+  - Hardware
   - Casero
 tags:
   - Pentesting
-  - OSWP
-  - Antena Casera
+  - Hacking
+  - Wireless
 ---
 
 <p align="center">

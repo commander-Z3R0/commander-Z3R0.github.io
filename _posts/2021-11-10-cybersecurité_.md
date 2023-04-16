@@ -1,6 +1,6 @@
 ---
 layout: single
-title: la ciberseguridad
+title: La ciberseguridad
 
 excerpt: "Soy *command-z3r0*, estudiante en seguridad informatica. Apasionado de este mundillo desde temprana edad"
 
@@ -11,11 +11,11 @@ header:
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
-  - infosec
+  - Infosec
 tags:  
-  - ciberseguridad
-  - redes
-  - aplicaciones
+  - Ciberseguridad
+  - Redes
+  - Aplicaciones
 ---
 
 ![](/assets/images/htb-writeup-delivery/secu.jpg)
