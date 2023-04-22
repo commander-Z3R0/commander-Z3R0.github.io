@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/evil-trust/evil.png
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: /assets/images/hacktheboxx.webp
 categories:
   - Scripting
 tags:
