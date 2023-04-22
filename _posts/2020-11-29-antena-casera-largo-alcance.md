@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/antenacasera/antena.jpg
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: /assets/images/hacktheboxx.webp
 categories:
   - Hardware
   - Casero
