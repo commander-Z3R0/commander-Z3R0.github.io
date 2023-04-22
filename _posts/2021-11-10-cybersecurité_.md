@@ -9,7 +9,7 @@ classes: wide
 header:
   teaser: /assets/images/htb-writeup-delivery/delivery_logo.png
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: /assets/images/hacktheboxx.webp
 categories:
   - Infosec
 tags:  
