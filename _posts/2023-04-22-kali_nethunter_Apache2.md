@@ -88,8 +88,8 @@ Nuestro problema es el servicio **Apache2**. Lo solucione reemplazando el servic
 </p>
 
 ```go
-┌─[user@parrot]─[~/esp32_nat_router]
-└──╼ apt-get remove apache2 
+┌──(root㉿kali)-[~]
+└─# apt-get remove apache2 
 ```
 
 <p align="center">
@@ -99,8 +99,8 @@ Nuestro problema es el servicio **Apache2**. Lo solucione reemplazando el servic
 Y una vez el servicio **Apache2** fue borrado, instalaremos el servicio *Nginx*, con el comando:
 
 ```go
-┌─[user@parrot]─[~/esp32_nat_router]
-└──╼ $apt-get install nginx
+┌──(root㉿kali)-[~]
+└─# apt-get install nginx
 ```
 
 <p align="center">
@@ -112,8 +112,8 @@ Si todo paso bien, normalmente nos dara esto como resultado, si iniciamos el ser
 
 
 ```go
-┌─[user@parrot]─[~/esp32_nat_router]
-└──╼ $service nginx start
+┌──(root㉿kali)-[~]
+└─# service nginx start
 Starting nginx: nginx.
 ```
 
@@ -124,8 +124,8 @@ Starting nginx: nginx.
 Podemos ver el estado del servicio **Nginx**  así
 
 ```go
-┌─[user@parrot]─[~/esp32_nat_router]
-└──╼ $service nginx status
+┌──(root㉿kali)-[~]
+└─# service nginx status
 nginx is running.
 ```
 
