@@ -9,12 +9,13 @@ header:
   teaser_home_page: true
   icon: /assets/images/hacktheboxx.webp
 categories:
-  - Solucion
+  - es-ES
 tags:
-  - Problema
+  - Fix
   - Apache2
-  - Kali-nethunter
   - Web-Server
+  - Kali-nethunter
+
 ---
 
 <p align="center">
