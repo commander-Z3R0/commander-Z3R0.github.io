@@ -9,6 +9,6 @@ main:
     url: /buscador/
   - title: "Acerca"
     url: /about/
-  - title: "Languages"
-    url: /languages/
+  - title: "Categorías"
+    url: /categories/
 
