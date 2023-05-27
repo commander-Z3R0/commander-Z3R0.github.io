@@ -1,6 +1,6 @@
 ---
 title: "Articles by language"
 layout: categories
-permalink: /categories/
+permalink: /languages/
 author_profile: true
 ---
