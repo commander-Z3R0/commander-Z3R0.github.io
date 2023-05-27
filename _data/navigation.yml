@@ -11,6 +11,4 @@ main:
     url: /buscador/
   - title: "Acerca"
     url: /about/
-  - title: "Categorías"
-    url: /categories/
 
