@@ -9,7 +9,7 @@ header:
   teaser_home_page: true
   icon: /assets/images/hacktheboxx.webp
 categories:
-  - es-ES
+  - Español
 tags:
   - GitHub
   - Bash
