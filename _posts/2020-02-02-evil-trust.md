@@ -9,11 +9,11 @@ header:
   teaser_home_page: true
   icon: /assets/images/hacktheboxx.webp
 categories:
-  - Scripting
+  - es-ES
 tags:
   - GitHub
   - Bash
-  - Herramientas
+  - Tools
 ---
 
 <p align="center">
