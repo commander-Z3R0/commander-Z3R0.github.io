@@ -9,7 +9,7 @@ header:
   teaser_home_page: true
   icon: /assets/images/hacktheboxx.webp
 categories:
-  - fr-FR
+  - Francais
 tags:
   - Fix
   - Apache2
