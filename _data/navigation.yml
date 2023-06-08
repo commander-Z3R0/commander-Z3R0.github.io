@@ -11,4 +11,5 @@ main:
     url: /buscador/
   - title: "Acerca"
     url: /about/
-
+  - title: "fr-FR"
+    url: https://commander-z3r0.github.io/
