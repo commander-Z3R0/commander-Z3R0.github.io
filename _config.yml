@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 locale                   : "en-US"
 title                    : "command-Z3R0.github.io"
 title_separator          : "-"
-name                     : "command.Z3R0"
+name                     : "commander.Z3R0"
 description              : "Posts about security, CTFs and networking"
 url                      : "https://command-Z3R0.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
