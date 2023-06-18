@@ -114,11 +114,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "command-Z3R0"
+  github           : "commander-Z3R0"
   gitlab           :
   google_plus      :
   keybase          : 
-  instagram        : "command.z3r0"
+  instagram        : "commander.z3r0"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -126,7 +126,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "command_Z3R0"
+  twitter          : "commander_Z3R0"
   vine             :
   weibo            :
   xing             :
