@@ -9,7 +9,7 @@ header:
   teaser_home_page: true
   icon: /assets/images/hacktheboxx.webp
 categories:
-  - Español
+  - Casero
 tags:
   - Pentesting
   - Hacking
