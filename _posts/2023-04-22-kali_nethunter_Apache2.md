@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Solución problema de Apache2 en kali nethunter
+title: Solución del problema de Apache2 en kali nethunter
 excerpt: "Explicaré la solución detallademente "
 date: 2023-04-22
 classes: wide
