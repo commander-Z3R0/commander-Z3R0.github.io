@@ -12,10 +12,11 @@ categories:
   - Hardware
   - Casero
 tags:
+  - HID
   - Hacking
-  - Kali-nethunter
   - Payload
-  - Rubber-Ducky
+  - Bad-usb
+  - Rucky
 
 ---
 
